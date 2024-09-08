@@ -1,4 +1,4 @@
-# vamsa.me (Quadrant Technologies Version)
+# vamsa
 
 ![image](https://github.com/gurul/vamsa.me/assets/110717420/4bd84ff4-f6ec-420d-8536-e970aafb59a4)
 
@@ -11,5 +11,6 @@ One of Vamsa's standout features is the AI-enhanced guidance system, which is es
 
 With robust search and filter capabilities, users can quickly locate specific family members, stories, or events. Prioritizing security and privacy, Vamsa ensures that data is securely stored and accessible only to authorized users. By combining these features in a user-friendly design, Vamsa makes preserving your family’s legacy seamless and comprehensive.
 
+BUSINESS PLAN: https://www.canva.com/design/DAGLtjNViEg/z4UIS88EAwm5nE7Uogny5g/edit?utm_content=DAGLtjNViEg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
