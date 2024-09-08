@@ -13,4 +13,6 @@ With robust search and filter capabilities, users can quickly locate specific fa
 
 BUSINESS PLAN: https://www.canva.com/design/DAGLtjNViEg/z4UIS88EAwm5nE7Uogny5g/edit?utm_content=DAGLtjNViEg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+PRESENTATION: https://www.canva.com/design/DAGNGT0KDXA/opjCxmjHdtx-lOENriTjOA/edit
+
 
